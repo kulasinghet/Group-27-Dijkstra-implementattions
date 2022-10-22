@@ -1,3 +1,11 @@
+/*
+	SCS2201 DSA III
+	Assignment
+	Question 02
+	R D T D Kulasinghe
+	20000995
+*/
+
 #include <bits/stdc++.h>
 using namespace std;
 
